@@ -1,2 +1,6 @@
 modify a.txt
+<<<<<<< HEAD:a.txt
 modify a.txt
+=======
+whats gonna happen
+>>>>>>> 37cc569dc0e735104ec39445566d93a3ddeabf1d:aa.txt
